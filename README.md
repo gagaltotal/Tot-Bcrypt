@@ -26,4 +26,4 @@ $ ./tot-bcrypt & python3 tot-bcrypt.py
 decode bcrypt nya bro ? ketik (y) untuk melanjutkan decode, key (ctrl+c) tidak melanjutkan decode :  
 ```
 
-Recode : [https://github.com/BREAKTEAM/Debcrypt]
+Recode Sumber : [https://github.com/BREAKTEAM/Debcrypt]
